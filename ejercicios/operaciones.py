@@ -7,5 +7,5 @@ def suma(x,y):
 def par_impar(x):
     if x % 2 == 0:
         return "par"
-    else
+    else:
         return impar
